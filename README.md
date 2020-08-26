@@ -15,7 +15,7 @@
 # 프로젝트 결과
 
 ## 발표 ppt 
-[발표자료](/project.ppt)
+[발표자료](/project.pptx)
 
 ## 시연 동영상
 [둘리와고길동](https://www.youtube.com/watch?v=6LxbdIjWP04)
