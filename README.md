@@ -49,6 +49,6 @@
  <Theme Chooser>
  theme을 변경하여 좀더 이쁜 홈페이지를 만든다.
    
-   <img src="homepage.jpg"/><br>
+   <img src="homepage.JPG"/><br>
    
  
