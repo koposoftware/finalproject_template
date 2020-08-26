@@ -46,7 +46,7 @@
  기본값은 master 에 root를 설정 
  Save 버튼 꼭 누른다.
  
- <Theme Chooser>
+ * Theme Chooser
  theme을 변경하여 좀더 이쁜 홈페이지를 만든다.
    
    <img src="homepage.JPG"/><br>
