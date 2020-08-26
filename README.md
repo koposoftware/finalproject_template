@@ -1,3 +1,34 @@
+# 프로젝트 제목 
+
+homepage:[editor on GitHub](https://koposoftware.github.io/template/)
+
+# 프로젝트 개요
+
+# 프로젝트 제안서
+
+# 프로젝트 결과
+## 발표 ppt 
+/a.ppt
+## 시연 동영상
+[editor on GitHub](https://www.youtube.com/watch?v=6LxbdIjWP04)
+
+## 본인 소개
+
+고길동![Image of Yaktocat](/gdko.jpg)
+학력:
+연락처(e-mail_
+
+이름 |![Image of Yaktocat](/gdko.jpg)
+------------ | -------------
+고길동 |
+연락처 | Content in the second column|
+이메일|
+skill set|
+자격증|
+수상|
+특기사항|
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/koposoftware/template/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
