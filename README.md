@@ -1,6 +1,6 @@
 # 엄청난 금융시스템! (프로젝트 제목) 
 
-[엄청난 금융시스템 홈페이지](https://koposoftware.github.io/template/)
+[엄청난 금융시스템 홈페이지 - https://koposoftware.github.io/template/](https://koposoftware.github.io/template/)
 
 # 1. 프로젝트 개요
 
