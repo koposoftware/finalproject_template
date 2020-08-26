@@ -1,6 +1,7 @@
 # 프로젝트 제목
 
 [프로젝트 홈페이지 - https://koposoftware.github.io/template/](https://koposoftware.github.io/template/)
+프로젝트 홈페이지는 https://koposoftware.github.io/repository_name/ 입니다.
 
 # 1. 프로젝트 개요
 
