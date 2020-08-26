@@ -8,16 +8,19 @@
 
 # 프로젝트 제안서
 
+[발표자료](/project.ppt)
+
+[동영상-둘리와고길동](https://www.youtube.com/watch?v=6LxbdIjWP04)
+
 # 프로젝트 결과
 
 ## 발표 ppt 
-[발표자료](/a.ppt)
+[발표자료](/project.ppt)
 
 ## 시연 동영상
-[editor on GitHub](https://www.youtube.com/watch?v=6LxbdIjWP04)
+[둘리와고길동](https://www.youtube.com/watch?v=6LxbdIjWP04)
 
-## 본인 소개
- 
+# 본인 소개
 
 |이름 |고길동|![gdKO](/gdko.jpg)|
 |연락처 | gdko@kopo.ac.kr|
