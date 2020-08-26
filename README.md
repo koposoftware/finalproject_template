@@ -12,6 +12,12 @@
 
 [발표자료](/project.ppt)
 
+
+   <img src="gdko.jpg"/><br><br>
+
+    
+
+   <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/6LxbdIjWP04" frameborder="0"></iframe>
 [동영상-둘리와고길동](https://www.youtube.com/watch?v=6LxbdIjWP04)
 
 # 3. 프로젝트 결과
